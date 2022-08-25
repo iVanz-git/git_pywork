@@ -1,0 +1,17 @@
+作为一名Python开发者，根据个人的喜好和职业规划，可以选择的就业领域也非常多：
+·Python后端开发工程师（服务器、云平台、数据接口）
+。Python运维工程师（自动化运维、SRE、DevOps)
+·Python数据分析师（数据分析、商业智能、数字化运营）
+·Python数据挖掘工程师（机器学习、深度学习、算法专家）
+·Python爬虫工程师
+·Python测试工程师（自动化测试、测试开发）
+给初学者的几个建议：
+Python入门是不难，之后深入还得靠自己持续精进，实践是王道，去在项目成长。
+。Make English as your working language.(让英语成为你的工作语言)
+。Practice makes perfect.(熟能生巧)
+·All experience comes from mistakes.(所有的经验都源于你犯过的错误)
+·Don't be one of the leeches.(不要当伸手党)
+·Either outstanding or out..(要么出众，要么出局)
+GitHub地址
+https://github.com/jackfrued/Python-100-Days
+坚持写文不易，觉得今天的推荐还不错，不妨点个赞，爱你。

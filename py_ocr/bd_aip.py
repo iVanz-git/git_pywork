@@ -22,7 +22,7 @@ def get_file_content(filePath):
 
 # 将如下操作包装为get_content()方法，方便其他文件调用
 def get_content():
-    image = get_file_content(nameGenerate())
+    image = get_file_content(nameGenerate() + '_screen_img.jpeg')
 
     # 调用通用文字识别（标准版）
     date = client.basicGeneral(image)

@@ -1,0 +1,2 @@
+with open(r"b file\a.txt""r")as file:
+with open(r".\b_file\a.txtx","r")as file:
