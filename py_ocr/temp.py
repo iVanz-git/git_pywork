@@ -1,7 +1,7 @@
 import time
 # from tkinter import image_names
 
-# 这个第三方文件，用于定义两个py文件共同需求的文件名生成方法nameGenerate()，以确保两个py文件不会环形引用
+# 这个第三者文件，用于定义两个py文件共同需求的文件名生成方法nameGenerate()，以确保两个py文件不会环形引用
 # 自定义将日期转化为字符串，用于后续截图自动保存的命名规则中
 # 每次按下截图键时(本人使用Snipaste.exe ，截图热键是 alt + shift + Q)，调用一次nameGenerate()函数，确保每次生成的文件名不同，从而保证所有截图都被保存到指定目录下("./imageCache_/")
 
