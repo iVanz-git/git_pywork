@@ -15,7 +15,7 @@ Object oldVal,Object newVal):使用新值替换List对象的所有旧值
 
 应用案例演示
 
-============================分割线==========================
+=========================分割线=========================
 
 调整下格式：
 E:\Python\python.exe E:/pywork/py_ocr/bd_aip.py 
@@ -30,3 +30,4 @@ E:\Python\python.exe E:/pywork/py_ocr/bd_aip.py
 7.boolean replaceAll(List list,Object oldVal,Object newVal):使用新值替换List对象的所有旧值
 8.应用案例演示
 ```
+---
