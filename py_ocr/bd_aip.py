@@ -26,7 +26,6 @@ def get_content():
 
     # 调用通用文字识别（标准版）
     date = client.basicGeneral(image)
-    # print(date)
     image_content = ""
     # 调整输出格式
     for words in date['words_result']:
