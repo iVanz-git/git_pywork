@@ -23,8 +23,8 @@ def screen():
     image = ImageGrab.grabclipboard()
     # 根据nameGenerate()方法，保存剪切板的图片，确保以下要求完成：
     #   1.生成图片名称
-    #   2.确保图片保存在指定目录中
     baseName = nameGenerate()
+    #   2.确保图片 以指定的名臣 保存在 指定目录中
     image.save(baseName + '_screen_img.jpeg')
     return baseName
     
@@ -35,7 +35,7 @@ def fileTextGen():
     file_Txt = open(baseName + '_screen_img.txt', mode='w', encoding='utf-8')
     file_Txt.write(get_content())
     file_Txt.close()
-    return "识别后的文本文档已经生成,位于\n" + baseName + '_screen_img.txt\n'
+    return "---识别后的文本文档已经生成,位于\n[" + baseName + '_screen_img.txt]\n'
     
 
     
