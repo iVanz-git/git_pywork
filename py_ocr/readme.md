@@ -1,4 +1,4 @@
-# 根据百度云的OCR文字识别项目
+# 根据百度云的OCR文字识别项目---直接读取 截图的剪切板即可！
 ---
 原教程[地址](https://www.bilibili.com/video/BV1YA4115762)：https://www.bilibili.com/video/BV1YA4115762
 
