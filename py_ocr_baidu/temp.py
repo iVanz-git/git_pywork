@@ -12,7 +12,7 @@ def nameGenerate():
     s1 = time.strftime("%Y-%m-%d %H:%M", time.localtime())
     # 原始写法如下，将 秒 加入文件后，容易产生bug：即文件在上一秒生成，执行打开功能时寻址路径却在下一秒，造成文件名不匹配，使得程序无法运行！ 详见截图 E:\pywork\py_ocr\py_prc_目前遗留的bug-20220826.png
     # s1 = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    # 过滤字符串，将原有时间戳字符串中的':', ' ', '-'全部替换，然后赋值给：s2
+    # 过滤字符串，将原有时间戳字符串中的 ':', ' ' 全部替换，然后赋值给：s2
     s2 = s1.replace(' ', '_').replace(':', '-')
     # 以下两种相对路径方式都是可行的，实际imageName同时包括了路径变更以及上述时间戳字符串s2
     # imageName = "E:\\pywork\\py_ocr\\imageCache_\\" + s2 + 'screen_img.jpeg'

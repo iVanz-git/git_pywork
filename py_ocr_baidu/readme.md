@@ -17,7 +17,7 @@
 >   API_KEY = 'WGCGn5K7zhSOK7KITX9e2kyB'
 >   SECRET_KEY = 'uxxd3ejiN8GrtrNbPglcPqhpntH3fRsY'
 > ```
->- 2.py_ocr_baiducloud_test.py：程序启动入口文件, 请运行此文件！
+>- 2.py_ocr_baiducloud_main.py：程序启动入口文件, 请运行此文件！
 >   - 使用前请先确认截图热键与代码一致。在def screen()方法中:
 >   - 本人用当前截图软件的热键 alt + shift + Q, 各自根据需求自己更改即可
 >    ```python 
