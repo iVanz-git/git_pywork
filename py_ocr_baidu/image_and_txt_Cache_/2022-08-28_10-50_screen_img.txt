@@ -1,0 +1,12 @@
+目py.ocr展示效果更新-20220826.mp4
+更改主项目名，从"py_ocr"改为"py_ocr_baidu“,方便与后续其他OCR方式进行区分.
+目py_prc_.目前遗留的bug-20220826.png
+更改主项目名，从"py_ocr”改为"py_ocr_baidu",方便与后续其他OCR方式进行区分.
+国py_prc目前遗留的bug-再次复现-20220826.png
+更改主项目名，从"py.ocr改为"py_ocr_baidu",方便与后续其他OCR方式进行区分。
+目readme.md
+修改部分文件名以及相关的readme说明
+目temp.py
+修改部分文件名以及相关的readmei说明
+目testimg.png
+更改主项目名，从"py.ocr”改为"py_ocr_baidu",方便与后续其他OCR方式进行区分。

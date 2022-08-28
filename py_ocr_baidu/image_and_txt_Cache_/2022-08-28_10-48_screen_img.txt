@@ -1,0 +1,4 @@
+更改主项目名，从"py_ocr"改为"py_ocr_baidu”,方便与后续其他OCR方式进行区分。
+更改主项目名，从"py_ocr”改为"py_ocr_baidu“,方便与后续其他OCR方式进行区分。
+更改主项目名，从"py_ocr”改为"py_ocr_.baidu“,方便与后续其他OCR方式进行区分。
+修改部分文件名以及相关的readmei说明

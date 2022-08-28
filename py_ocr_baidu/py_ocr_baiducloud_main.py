@@ -49,7 +49,8 @@ while True:
     # 此处两个效果，1.执行了fileTextGen()方法，2.将完成执行后的返回值 “生成文本文档的路径” 作为字符串信息显示在控制台
     print(fileTextGen())
     # 将识别后的结果 先打印在控制台上
-    print("识别内容如下:\n" + date)
+    print("\n======识别内容如下======\n" + date + 
+            "=======================\n")
     # 打开文本识别后,生成的文本文档
     os.startfile(baseName + '_screen_img.txt')
     # 打开文本识别后,生成的图片
