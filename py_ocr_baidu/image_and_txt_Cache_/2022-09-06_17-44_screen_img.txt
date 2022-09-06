@@ -1,0 +1,7 @@
+#定义方法，用来把生成的字符串写入xt文件，并且打开该文件
+#增加返回值，返回值为字符串，表明生成的文本文档的路径
+def fileTextGen():
+file Txt open(baseName +screen img.txt',mode='w',encoding='utf-8')
+file_Txt.write(get_content())
+file_Txt.close()
+return"--识别后的文本文档已经生成，位于\n["+baseName+screen_img,txt]n'

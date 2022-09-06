@@ -1,3 +1,4 @@
+import os
 import time
 # from tkinter import image_names
 
@@ -16,7 +17,8 @@ def nameGenerate():
     s2 = s1.replace(' ', '_').replace(':', '-')
     # 以下两种相对路径方式都是可行的，实际imageName同时包括了路径变更以及上述时间戳字符串s2
     # imageName = "E:\\pywork\\py_ocr\\image_and_txt_Cache_\\" + s2 + 'screen_img.jpeg'
-    imageName = ".\\image_and_txt_Cache_\\" + s2
+    path = os.getcwd()
+    imageName = path+ "\\image_and_txt_Cache_\\" + s2
     return imageName
 
 
